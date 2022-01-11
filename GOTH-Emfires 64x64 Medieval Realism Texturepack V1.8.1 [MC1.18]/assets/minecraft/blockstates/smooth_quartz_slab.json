@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "type=double": { "model": "block/quartz_block_smooth_double_slab" }
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "type=double": { "model": "block/polished_granite_double_slab" }
+    }
+}

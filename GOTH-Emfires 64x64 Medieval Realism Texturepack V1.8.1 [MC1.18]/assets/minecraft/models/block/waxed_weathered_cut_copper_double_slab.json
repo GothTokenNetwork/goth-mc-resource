@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": { 
+        "end": "block/waxed_weathered_cut_copper_double_slab",
+        "side": "block/waxed_weathered_cut_copper_double_slab"
+    }
+}

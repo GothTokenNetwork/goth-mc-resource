@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "type=double": { "model": "block/cobbled_deepslate_double_slab" }
+    }
+}

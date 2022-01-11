@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "block/magenta_glazed_terracotta_full" },
+        "facing=west": { "model": "block/magenta_glazed_terracotta_horizontal" },
+        "facing=north": { "model": "block/magenta_glazed_terracotta_normal" },
+        "facing=east": { "model": "block/magenta_glazed_terracotta_vertical" }
+    }
+}

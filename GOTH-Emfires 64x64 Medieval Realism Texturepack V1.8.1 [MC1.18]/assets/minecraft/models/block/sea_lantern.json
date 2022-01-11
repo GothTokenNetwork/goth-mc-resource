@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "block/sea_lantern_top",
+        "top": "block/sea_lantern_top",
+        "side": "block/sea_lantern"
+    }
+}

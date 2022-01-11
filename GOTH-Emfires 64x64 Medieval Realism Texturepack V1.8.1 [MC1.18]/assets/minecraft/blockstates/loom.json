@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "minecraft:block/loom_east",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "minecraft:block/loom_north"
+    },
+    "facing=south": {
+      "model": "minecraft:block/loom_south",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "minecraft:block/loom_west",
+      "y": 270
+    }
+  }
+}

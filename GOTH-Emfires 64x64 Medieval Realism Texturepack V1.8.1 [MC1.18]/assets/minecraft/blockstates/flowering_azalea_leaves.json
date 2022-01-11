@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": [{ "model": "block/flowering_azalea_leaves_bushy_1" }, { "model": "block/flowering_azalea_leaves_bushy_2" }, { "model": "block/flowering_azalea_leaves_bushy_3" }, { "model": "block/flowering_azalea_leaves_bushy_4" }, { "model": "block/flowering_azalea_leaves_bushy_5" }, { "model": "block/flowering_azalea_leaves_bushy_6" }, { "model": "block/flowering_azalea_leaves_bushy_7" }, { "model": "block/flowering_azalea_leaves_bushy_8" }, { "model": "block/flowering_azalea_leaves_bushy_9" }]
+    }
+}

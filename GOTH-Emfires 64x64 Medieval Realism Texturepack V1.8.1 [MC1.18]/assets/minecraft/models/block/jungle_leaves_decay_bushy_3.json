@@ -1,0 +1,65 @@
+{
+    "parent": "block/jungle_leaves",
+    "textures": {
+        "all": "block/leaves_jungle_decay",
+        "bushy": "block/leaves_jungle_decay_bushy_1",
+        "particle": "#all"
+    },
+	"ambientocclusion": false,
+
+"elements": [ 
+{				"name": "cube",
+    "from": [ 0, 0, 0 ],
+    "to": [ 16, 16, 16 ],	"shade": true,
+
+    "faces": {
+        "down":  { "uv": [ 16, 16, 0, 0 ], "texture": "#all", "cullface": "down" },
+        "up":    { "uv": [ 0, 0, 16, 16 ], "texture": "#all", "cullface": "up" },
+        "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#all", "cullface": "north" },
+        "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#all", "cullface": "south" },
+        "west":  { "uv": [ 0, 0, 16, 16 ], "texture": "#all", "cullface": "west" },
+        "east":  { "uv": [ 0, 0, 16, 16 ], "texture": "#all", "cullface": "east" }
+    }
+},
+{
+    "from": [ 14, -8, -7 ],
+    "to": [ 14, 24, 25 ],
+    "shade": false,
+    "rotation": { "origin": [ 16, -8, -5 ], "axis": "y", "angle": -22.5 },
+    "faces": {
+        "west":  { "uv": [ 0, 0, 16, 16 ], "texture": "#bushy" },
+        "east":  { "uv": [ 0, 0, 16, 16 ], "texture": "#bushy" }
+    }
+},
+{
+    "from": [ -7, -8, 2 ],
+    "to": [ 25, 24, 2 ],
+    "shade": false,
+    "rotation": { "origin": [ -5, -8, 4 ], "axis": "y", "angle": -22.5 },
+    "faces": {
+        "north": { "uv": [ 16, 16, 0, 0 ], "texture": "#bushy" },
+        "south": { "uv": [ 16, 16, 0, 0 ], "texture": "#bushy" }
+    }
+},
+{
+    "from": [ 14, -8, -10 ],
+    "to": [ 14, 24, 22 ],
+    "shade": false,
+    "rotation": { "origin": [ 15, -8, 20 ], "axis": "y", "angle": 22.5 },
+    "faces": {
+        "west":  { "uv": [ 0, 0, 16, 16 ], "texture": "#bushy" },
+        "east":  { "uv": [ 0, 0, 16, 16 ], "texture": "#bushy" }
+    }
+},
+{
+    "from": [ -10, -8, 2 ],
+    "to": [ 22, 24, 2 ],
+    "shade": false,
+    "rotation": { "origin": [ 21.9, -8, 1 ], "axis": "y", "angle": 22.5 },
+    "faces": {
+        "north": { "uv": [ 16, 16, 0, 0 ], "texture": "#bushy" },
+        "south": { "uv": [ 16, 16, 0, 0 ], "texture": "#bushy" }
+    }
+}
+]
+}

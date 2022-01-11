@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "type=double": { "model": "block/weathered_cut_copper_double_slab" }
+    }
+}
